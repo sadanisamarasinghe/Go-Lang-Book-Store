@@ -4,7 +4,7 @@ import (
     "GoLangBookApi/config"
     "GoLangBookApi/models"
     "GoLangBookApi/routes"
-    "GoLangBookApi.com/gofiber/fiber/v2"
+    "github.com/gofiber/fiber/v2"
 )
 
 func main() {
